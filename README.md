@@ -1,7 +1,5 @@
 # causal-inference
 
-Final project for STA9794: Synthetic Differences-In-Differences.
-
 Business Question: Did the introduction of Product X at Store_1 increase revenue relative to comparable stores?
 
 Methodology: Difference-in-Differences and Synthetic Difference-in-Differences.
